@@ -1,4 +1,11 @@
-# vue-2-auth
+# Authentication In Vue With Laravel
+
+Please refer below repository for reference on APIs response. I have used Laravel as backend.
+
+## Authentication APIs Repository
+```
+https://github.com/bipin1611/auth-api-laravel.git
+```
 
 ## Project setup
 ```
